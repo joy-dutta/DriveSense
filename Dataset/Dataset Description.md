@@ -1,5 +1,6 @@
 # Dataset Descriptions
-This dataset has data for 30 consecutive days for driving approximately 10 hours per day for individual driver's profiles. It signifies for three profiles (i.e., good, normal, and bad), we have (30*10*3) = 900 Hours (approximately) driving-event detection dataset with us for testing purposes. If you examine the dataset, you will discover the following driving events: a summary of 30 days of driving for each driver profile. 
+This dataset has data for 30 consecutive days for driving approximately 10 hours per day for individual driver's profiles. It signifies for three profiles (i.e., good, normal, and bad), we have **(30×10×3)**
+= 900 Hours (approximately) driving-event detection dataset with us for testing purposes. If you examine the dataset, you will discover the following driving events: a summary of 30 days of driving for each driver profile. 
 ## Good Driver
 
 | Behavior             | Count |
