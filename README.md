@@ -4,6 +4,6 @@ The issue of noise pollution in urban areas, especially due to vehicle honking, 
 In this repository, you will get the implementation of the proposed novel driver-scoring Python script along with the dataset on which we have tested the experiment. We are maintaining the repository for the reproducibility purpose of this work for further research. If you are using the code or the dataset, kindly cite our work mentioned below.
 
 ### References:
-#### [1] Joy Dutta, Debojit Chakraborty, Sarbani Roy, Deepak Puthal, “JUHDM: IoT-based Honk Detection and Novel Driver Profiling For Smart City”, 21st IEEE International Conference on Smart City (Smart City 2023), Melbourne, Australia (Submitted)
+#### [1] Joy Dutta, Debojit Chakraborty, Sarbani Roy, Deepak Puthal, “JUHDM: IoT-based Honk Detection and Novel Driver Profiling For Smart City”, 21st IEEE International Conference on Smart City (Smart City 2023), Melbourne, Australia 
 #### [2] B. Bose, J. Dutta, S. Ghosh, P. Pramanick, S. Roy, “D&RSense: Detection Of Driving Patterns And Road Anomalies”, Proceedings of the 3rd International Conference On Internet of Things: Smart Innovation and Usages (IoT-SIU 2018), February 2018, Bhimtal, Nainital, Uttarakhand, India (IEEE), DOI: 10.1109/IoT-SIU.2018.8519861
 
